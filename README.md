@@ -1,14 +1,67 @@
-<h1 align="center">Hi 👋, I'm Syra Moran</h1>
-<h3 align="center">Técnica en Desarrollo Web con experiencia en marketing digital y diseño.</h3>
+<div align="center">
 
-- 👨‍💻 All of my projects are available at [https://syramoran.github.io](https://syramoran.github.io)
+<img src="./assets/cabecera.gif" width="300px">
 
-- 📫 How to reach me **syramoran@gmail.com**
+# ✨ ¡Hola! Soy Syra Moran ✨
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/syramoran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syramoran" height="30" width="40" /></a>
+### 🎀 Técnica en Desarrollo Web con pasión por el marketing digital y el diseño 🎀
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Open_to_Work-ffb6c1?style=flat-square&logoColor=white" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
+
+<p align="center">
+  <img src="./assets/gif-2.gif" width="50px">
+</p>
+
+</div>
+
+### 🌸 Sobre mí
+- 💻 **Proyectos:** Puedes ver mi portafolio en [syramoran.github.io](https://syramoran.github.io)
+- 💌 **Contacto:** Escríbeme a [syramoran@gmail.com](mailto:syramoran@gmail.com)
+- 📍 **Enfoque:** Especializada en crear interfaces hermosas y funcionales.
+
+---
+
+### 🎨 Mis Tecnologías
+
+#### ☁️ Frontend
+![HTML5](https://img.shields.io/badge/HTML5-FFB6C1?style=for-the-badge&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-FFC0CB?style=for-the-badge&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD1DC?style=for-the-badge&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-E6E6FA?style=for-the-badge&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-F8C8DC?style=for-the-badge&logoColor=white)
+![React](https://img.shields.io/badge/React-FFB7C5?style=for-the-badge&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-BDB2FF?style=for-the-badge&logoColor=white)
+
+#### 🎀 Backend & DB
+![Node.js](https://img.shields.io/badge/Node.js-CDB4DB?style=for-the-badge&logoColor=white)
+![Express](https://img.shields.io/badge/Express-FFC8DD?style=for-the-badge&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-FFAFCC?style=for-the-badge&logoColor=white)
+![Python](https://img.shields.io/badge/Python-BDE0FE?style=for-the-badge&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-A2D2FF?style=for-the-badge&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFD1DC?style=for-the-badge&logoColor=white)
+
+#### 🍭 Diseño & Marketing
+![Figma](https://img.shields.io/badge/Figma-F4978E?style=for-the-badge&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-F08080?style=for-the-badge&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FBC4AB?style=for-the-badge&logoColor=white)
+
+#### ☁️ Herramientas
+![Git](https://img.shields.io/badge/Git-D8E2DC?style=for-the-badge&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FFE5D9?style=for-the-badge&logoColor=white)
+
+---
+
+### ☁️ Conectemos
+<p align="left">
+<a href="https://linkedin.com/in/syramoran" target="blank">
+<img align="center" src="https://img.shields.io/badge/LinkedIn-Syra_Moran-ffb6c1?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</p>
+
+<div align="center">
+<img src="./assets/gif-3.gif" width="150px">
+</div>
