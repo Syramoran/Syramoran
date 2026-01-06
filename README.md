@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/cabecera.gif" width="300px">
+<img src="./assets/cabecera.gif" width="500px">
 
 # ✨ ¡Hola! Soy Syra Moran ✨
 
@@ -13,7 +13,7 @@
 ---
 
 <p align="center">
-  <img src="./assets/gif-2.gif" width="50px">
+  <img src="./assets/gif-2.gif" width="200px">
 </p>
 
 </div>
@@ -63,5 +63,5 @@
 </p>
 
 <div align="center">
-<img src="./assets/gif-3.gif" width="150px">
+<img src="./assets/gif-3.gif" width="200px">
 </div>
